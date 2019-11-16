@@ -1,0 +1,1 @@
+An application to facilitates bookings between artist and venue managers.
